@@ -64,7 +64,7 @@ p1.setDNI("30696288")
 p1.mostar_datos_1
 """
 
-
+#ghsghs
     
 #q
 """
