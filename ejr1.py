@@ -65,7 +65,7 @@ p1.mostar_datos_1
 """
 
 #ghsghs
-    
+#KINISISISIBSDHGDJHGD CHANCIDOJFF
 #q
 """
 Hacer metodos:
