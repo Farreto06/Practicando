@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meooooooooooow
+=======
+esta es la modificacion de vicente 
+>>>>>>> vicente
